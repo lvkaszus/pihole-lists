@@ -24,63 +24,19 @@
 
 # PayPal - Domains List - Main
 
-paypal.at
-paypal.be
-paypalc3.com
-paypalc3.net
-paypal.ca
-paypal.ch
-paypal.cl
-paypal.co
-paypal.co.id
-paypal.co.il
-paypal.co.in
-paypal.com
-paypal.com.ar
-paypal.com.au
-paypal.com.br
-paypal.com.hk
-paypal-communication.com
-paypal-community.com
-paypal.com.mx
-paypal.com.my
-paypal.com.pe
-paypal.com.pt
-paypal.com.sa
-paypal.com.sg
-paypal.com.tr
-paypal.com.tw
-paypal.com.ve
-paypal.co.nz
-paypal-corp.com
-paypalcorp.com
-paypal.co.th
-paypal.co.uk
-paypal.co.za
-paypal.de
-paypal.dk
-paypal.es
-paypal.eu
-paypal.fi
-paypal.fr
-paypal.ie
-paypal.in
-paypal.it
-paypal.jp
-paypal.lu
-paypal.me
-paypal-mktg.com
-paypal.nl
-paypal.no
-paypalobjects.com
-paypal.ph
-paypal.pl
-paypal-prepaid.com
-paypal-promotions.com
-paypal.pt
-paypal.se
-paypal.vn
-pypl.com
+
+# *.paypal.* / *.paypalc3.* / *.paypal-communication.* / etc. - Regular Expressions
+
+(^|\.)[a-zA-Z0-9-]+\.paypal\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypalc3\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-communication\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-community\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-corp\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-mktg\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypalobjects\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-prepaid\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-promotions\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.pypl\.[a-zA-Z0-9-]+\b
 
 # PayPal - Domains List - Subdomains
 
