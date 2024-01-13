@@ -25,18 +25,65 @@
 # PayPal - Domains List - Main
 
 
-# *.paypal.* / *.paypalc3.* / *.paypal-communication.* / etc. - Regular Expressions
+# *.paypal.at / *.paypal.be / *.paypalc3.com / etc. - Regular Expressions
 
-(^|\.)[a-zA-Z0-9-]+\.paypal\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypalc3\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypal-communication\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypal-community\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypal-corp\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypal-mktg\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypalobjects\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypal-prepaid\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.paypal-promotions\.[a-zA-Z0-9-]+\b
-(^|\.)[a-zA-Z0-9-]+\.pypl\.[a-zA-Z0-9-]+\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.at\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.be\b
+(^|\.)[a-zA-Z0-9-]+\.paypalc3\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypalc3\.net\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.ca\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.ch\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.cl\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\.id\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\.il\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\.in\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.ar\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.au\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.br\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.hk\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-communication\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-community\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.mx\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.my\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.pe\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.pt\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.sa\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.sg\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.tr\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.tw\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.com\.ve\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\.nz\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-corp\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypalcorp\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\.th\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\.uk\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.co\.za\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.de\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.dk\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.es\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.eu\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.fi\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.fr\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.ie\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.in\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.it\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.jp\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.lu\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.me\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-mktg\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.nl\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.no\b
+(^|\.)[a-zA-Z0-9-]+\.paypalobjects\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.ph\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.pl\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-prepaid\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal-promotions\.com\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.pt\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.se\b
+(^|\.)[a-zA-Z0-9-]+\.paypal\.vn\b
+(^|\.)[a-zA-Z0-9-]+\.pypl\.com\b
 
 # PayPal - Domains List - Subdomains
 
